@@ -16,16 +16,16 @@ E:\ProgramData\Anaconda3\envs\Tableau-Python-Server\python.exe "E:\Scripts\Snake
 E:\ProgramData\Anaconda3\envs\Tableau-Python-Server\python.exe "E:\Scripts\SnakeKits\SnakeKits_SnakeSource.py"
 
 echo *******************************************************************************************************
-echo *    Kopierer SnakeBooks Datasources til        \\rmapps0892\Faelles\SnakeKits\output\SnakeSources                                                                                               *
+echo *    Kopierer SnakeBooks Datasources til        \\xxxxxxxx\Faelles\SnakeKits\output\SnakeSources                                                                                               *
 echo *******************************************************************************************************
-xcopy /Y E:\Scripts\SnakeKits\output\SnakeSources\*.tds \\rmapps0892\Faelles\SnakeKits\output\SnakeSources
+xcopy /Y E:\Scripts\SnakeKits\output\SnakeSources\*.tds \\xxxxxxxx\Faelles\SnakeKits\output\SnakeSources
 
 
 
 echo *******************************************************************************************************
-echo *    Kopierer SnakeBooks til        \\rmapps0892\Faelles\SnakeKits\output                                                                                                 *
+echo *    Kopierer SnakeBooks til        \\xxxxxxxx\Faelles\SnakeKits\output                                                                                                 *
 echo *******************************************************************************************************
-xcopy /Y E:\Scripts\SnakeKits\output\*.twb \\rmapps0892\Faelles\SnakeKits\output
+xcopy /Y E:\Scripts\SnakeKits\output\*.twb \\xxxxxxxx\Faelles\SnakeKits\output
 
 
 
